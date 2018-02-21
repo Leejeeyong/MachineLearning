@@ -1,12 +1,12 @@
-# Machine Learning
+ï»¿# Machine Learning
 
 ## Keras(Python)
-	ÄÉ¶ó½º °­ÁÂ
-	https://tykimos.github.io/lecture/
+	ì¼€ë¼ìŠ¤ ê°•ì¢Œ
+	[https://tykimos.github.io/lecture/](https://tykimos.github.io/lecture/)
 
 
 ## 1.Anaconda installing
-	https://www.anaconda.com/download/#windows
+	[https://www.anaconda.com/download/#windows](https://www.anaconda.com/download/#windows)
 	
 	All User
 	Add Anaconda to the system PATH environment variable
