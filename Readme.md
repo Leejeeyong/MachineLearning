@@ -2,7 +2,7 @@
 
 ## Keras(Python)
 	케라스 강좌
-	[https://tykimos.github.io/lecture/](https://tykimos.github.io/lecture/ "link1")
+	(https://tykimos.github.io/lecture/ "https://tykimos.github.io/lecture/")
 
 
 ## 1.Anaconda installing
