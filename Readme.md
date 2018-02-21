@@ -2,11 +2,11 @@
 
 ## Keras(Python)
 	케라스 강좌
-	[https://tykimos.github.io/lecture/](https://tykimos.github.io/lecture/)
+	[https://tykimos.github.io/lecture/](https://tykimos.github.io/lecture/ "link1")
 
 
 ## 1.Anaconda installing
-	[https://www.anaconda.com/download/#windows](https://www.anaconda.com/download/#windows)
+	[https://www.anaconda.com/download/#windows](https://www.anaconda.com/download/#windows "link2")
 	
 	All User
 	Add Anaconda to the system PATH environment variable
