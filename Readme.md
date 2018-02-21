@@ -13,13 +13,13 @@
 
 ## 2.Add system PATH environment variable
 	C:\ProgramData\Anaconda3
-    	C:\ProgramData\Anaconda3\Scripts
-    	C:\ProgramData\Anaconda3\Library\bin
+    C:\ProgramData\Anaconda3\Scripts
+    C:\ProgramData\Anaconda3\Library\bin
 
 	Above
 	C:\Python27
-    	C:\Python27\Scripts
-    	C:\Python27\Lib\site-packages
+    C:\Python27\Scripts
+    C:\Python27\Lib\site-packages
 
 ## 3.Check Anaconda and Python
 	Window+R for lauching CMD
@@ -60,23 +60,23 @@
 
 ## 7.Installing Package	
 	(venv) c:\Projects\keras_talk>conda install -n venv numpy matplotlib pandas pydotplus h5py scikit-learn
-    	(venv) c:\Projects\keras_talk>conda install -n venv scipy mkl-service libpython m2w64-toolchain 
+    (venv) c:\Projects\keras_talk>conda install -n venv scipy mkl-service libpython m2w64-toolchain 
 
 ## 8.Installing Library
 	(venv) c:\Projects\keras_talk>conda install -n venv theano pygpu
-    	(venv) c:\Projects\keras_talk>conda install -n venv git graphviz
-    	(venv) c:\Projects\keras_talk>conda install -n venv tensorflow
+    (venv) c:\Projects\keras_talk>conda install -n venv git graphviz
+    (venv) c:\Projects\keras_talk>conda install -n venv tensorflow
 
 	-keras download and move to keras
 	(venv) c:\Projects\keras_talk>git clone https://github.com/fchollet/keras.git
-    	(venv) c:\Projects\keras_talk>cd keras
-    	(venv) c:\Projects\keras_talk\keras>_	
+    (venv) c:\Projects\keras_talk>cd keras
+    (venv) c:\Projects\keras_talk\keras>_	
 	
 	-Install keras
 	(venv) c:\Projects\keras_talk\keras>python setup.py install
 
 ## 9.Check Package version
 	(venv) c:\Projects\keras_talk\keras>cd ..
-    	(venv) c:\Projects\keras_talk>_
-    	(venv) c:\Projects\keras_talk>jupyter notebook
+    (venv) c:\Projects\keras_talk>_
+    (venv) c:\Projects\keras_talk>jupyter notebook
 
